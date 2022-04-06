@@ -1,0 +1,39 @@
+/*quiz.php*/
+body {
+    background-image:url("images/work.jpg");
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+}
+
+.center {
+	opacity: 0.7;
+	display: block;
+	background-color: black;
+	margin-left: 200px;
+	margin-right: 200px;
+	height: 730px;
+	color:white;
+	position: absolute;
+	z-index: -1;
+}
+.submitButton{
+	background-color: #fcad03;
+	border: none;
+  	color: white;
+  	padding: 15px 25px;
+  	text-align: center;
+  	text-decoration: none;
+  	margin-top: 15px;
+}
+
+.questions {
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 5px;
+}
+
+
+

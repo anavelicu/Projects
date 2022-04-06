@@ -1,0 +1,21 @@
+body {
+    background-image:url("images/list.jpg");
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+}
+
+.listitems {
+	float :right;
+	margin-top: 100px;
+	width: 30%;
+	height: 700px;
+	color:black;
+	margin-right: 50px;
+
+}
+.done {
+  text-decoration:line-through;
+}

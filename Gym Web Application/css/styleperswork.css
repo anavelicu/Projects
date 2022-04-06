@@ -1,0 +1,29 @@
+body {
+    background-image:url("images/work.jpg");
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+}
+.center {
+	opacity: 0.7;
+	background-color: black;
+	height: 700px;
+	margin-top: 0;
+	color: white;
+	margin-left: 300px;
+	margin-right: 200px;
+}
+
+#display {
+	padding-top: 20px; 
+	padding-left: 50px;
+}
+
+.text {
+	font-size: 25px;
+	font-family: 'Barlow', sans-serif;
+	padding-left: 50px;
+	padding-top: 20px;
+}
